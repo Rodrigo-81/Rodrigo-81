@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+1. Python
+2. Java
+3. Html / CSS
+4. Javascript
+
 <!--
 **Rodrigo-81/Rodrigo-81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
