@@ -1,4 +1,8 @@
-### Hi there 👋
+### Rodrigo Souza
+
+With a degree on Logistics and acquiring a second degree on System analysis and Development, I'm a professional looking to develop functional software solutions.
+
+Currently studying these technologies: 
 
 1. Python
 2. Java
